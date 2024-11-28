@@ -110,9 +110,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📧
 
-Your Name - Keekay-OD]
+Keekay-OD
 
-Project Link: [https://github.com/Keekay-OD/Pushover-Desktop-App](https://github.com/Keekay-OD/Pushover-Desktop-App)
+[https://github.com/Keekay-OD/Pushover-Desktop-App](https://github.com/Keekay-OD/Pushover-Desktop-App)
 
 ## Acknowledgements 🙏
 
