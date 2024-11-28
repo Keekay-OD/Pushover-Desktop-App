@@ -1,4 +1,4 @@
-# Pushover Messenger Desktop APp 📬
+# Pushover Messenger Desktop App 📬
 
 ## Overview
 
