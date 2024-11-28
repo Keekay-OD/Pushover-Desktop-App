@@ -8,6 +8,8 @@ Pushover Messenger desktop is a desktop application that allows you to send noti
 ![Settings](https://imgur.com/31RkTVf)
 ![Message History](https://imgur.com/7BFVntz)
 [Imgur](https://imgur.com/KFb3ZWb)
+
+[img]https://i.imgur.com/KFb3ZWb.png[/img]
 ## Features 🚀
 
 - 🔐 Secure API Configuration
