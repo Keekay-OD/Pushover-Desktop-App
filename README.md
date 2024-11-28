@@ -28,8 +28,8 @@ Before you begin, ensure you have the following:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pushover-messenger.git
-cd pushover-messenger
+git clone https://github.com/Keekay-OD/Pushover-Desktop-App.git
+cd Pushover-Desktop-App
 ```
 
 2. Install required dependencies:
@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - Keekay-OD]
 
-Project Link: [https://github.com/yourusername/pushover-messenger](https://github.com/Keekay-OD/Pushover-Desktop-App)
+Project Link: [https://github.com/Keekay-OD/Pushover-Desktop-App](https://github.com/Keekay-OD/Pushover-Desktop-App)
 
 ## Acknowledgements 🙏
 
