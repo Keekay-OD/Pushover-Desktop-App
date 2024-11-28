@@ -1,3 +1,2 @@
-# Core Dependencies
 requests>=2.25.1
-# Tkinter comes with Python standard library
+pyinstaller>=4.5.1
