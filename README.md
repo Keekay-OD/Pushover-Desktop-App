@@ -4,12 +4,11 @@
 
 Pushover Messenger desktop is a desktop application that allows you to send notifications easily through the Pushover API. With a simple, intuitive Tkinter-based interface, you can quickly send messages, manage settings, and keep track of your message history.
 
-![Main Page](https://imgur.com/KFb3ZWb)
-![Settings](https://imgur.com/31RkTVf)
-![Message History](https://imgur.com/7BFVntz)
-[Imgur](https://imgur.com/KFb3ZWb)
+![Main Page](https://staff.vibescity.cloud/s/sqTJMHXzxdFkZK8)
+![Settings](https://staff.vibescity.cloud/s/M7T4zcHKyGFKgWS)
+![Message History](https://staff.vibescity.cloud/s/dxCzN9asCTcnDnd)
 
-[img]https://i.imgur.com/KFb3ZWb.png[/img]
+
 ## Features 🚀
 
 - 🔐 Secure API Configuration
