@@ -3,10 +3,8 @@ import subprocess
 import sys
 
 def create_executable():
-    # Path to your main Python script
     script_path = 'pushover_messenger.py'  # Ensure this matches your script name
     
-    # Path to your icon (must be .ico format)
     icon_path = 'app_icon.ico'  # Replace with your icon path
     
     # Ensure the icon exists
@@ -17,12 +15,12 @@ def create_executable():
     # PyInstaller command
     pyinstaller_command = [
         'pyinstaller',
-        '--onefile',           # Single executable
+        '--onefile',           
         '--windowed',          # No console window
         '--name=PushoverMessenger',  # Name of the executable
         f'--icon={icon_path}', # Custom icon
-        '--add-data=pushover_config.json:.',  # Include config file
-        script_path            # Main script
+        '--add-data=pushover_config.json:.', 
+        script_path            
     ]
 
     try:
