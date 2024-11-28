@@ -1,8 +1,8 @@
-# Pushover Messenger 📬
+# Pushover Messenger Desktop APp 📬
 
 ## Overview
 
-Pushover Messenger is a desktop application that allows you to send notifications easily through the Pushover API. With a simple, intuitive Tkinter-based interface, you can quickly send messages, manage settings, and keep track of your message history.
+Pushover Messenger desktop is a desktop application that allows you to send notifications easily through the Pushover API. With a simple, intuitive Tkinter-based interface, you can quickly send messages, manage settings, and keep track of your message history.
 
 ![App Screenshot](screenshot.png)
 
@@ -110,9 +110,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📧
 
-Your Name - [Your Email]
+Your Name - Keekay-OD]
 
-Project Link: [https://github.com/yourusername/pushover-messenger](https://github.com/yourusername/pushover-messenger)
+Project Link: [https://github.com/yourusername/pushover-messenger](https://github.com/Keekay-OD/Pushover-Desktop-App)
 
 ## Acknowledgements 🙏
 
